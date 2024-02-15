@@ -5,6 +5,7 @@ urlfind é um script que busca por urls e subdomínios
 ```sh
 git clone https://github.com/yHunterDep/urlfind/
 cd urlfind/
+pip3 install -r requirements.txt
 ```
 
 # Help da Ferrameta
